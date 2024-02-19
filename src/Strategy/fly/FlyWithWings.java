@@ -1,7 +1,5 @@
 package Strategy.fly;
 
-import Strategy.fly.FlyBehaviour;
-
 public class FlyWithWings implements FlyBehaviour {
     @Override
     public void fly() {
